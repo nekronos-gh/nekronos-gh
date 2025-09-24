@@ -6,8 +6,6 @@
   
   <p align="center">
     <a href="https://www.linkedin.com/in/eduardo-rodriguez-sanchez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:edubuntu2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/nekronos-gh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 </div>
 
@@ -18,9 +16,9 @@
 I'm a passionate Computer Engineer currently pursuing my Master's in High-Performance Computing through the prestigious EUMaster4HPC program. With experience in developing software for critical systems, I specialize in optimizing OS-linked components and handling network-related tasks at scale.
 
 🎓 **Current Journey**: M.S. in HPC at Université du Luxembourg (2025-2026)  
-🌍 **Location**: Madrid, Spain
-💼 **Current Role**: Research assistant in the CritiX group @ UniLu
-🔬 **Research Interests**: Distributed Systems, Network Optimization, Parallel Computing
+🌍 **Location**: Madrid, Spain  
+💼 **Current Role**: Research assistant in the CritiX group @ UniLu  
+🔬 **Research Interests**: Distributed Systems, Network Optimization, Parallel Computing  
 
 ---
 
@@ -30,14 +28,14 @@ I'm a passionate Computer Engineer currently pursuing my Master's in High-Perfor
 <tr>
 <td width="50%">
 
-### 🔧 Systems Engineering
+### 🔧 Systems Engineering  
 - **Low-level Programming** in C/C++
 - **Performance Optimization**
 
 </td>
 <td width="50%">
 
-### 🌐 Network Engineering
+### 🌐 Network Engineering  
 - **Load Balancing** at scale 
 - **Network Traffic Analysis** & Optimization
 
