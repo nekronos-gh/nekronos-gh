@@ -1,8 +1,8 @@
-# 👋 Hello World, I'm Eduardo Rodríguez Sánchez
+# Eduardo Rodríguez Sánchez
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&random=false&width=800&lines=Computer+Engineer+%7C+HPC+Master+Student;Systems+Developer+%7C+5G+Core+Specialist;Building+the+Future+of+High-Performance+Computing)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&random=false&width=800&lines=Computer+Engineer+%7C+HPC+Master+Student;Systems+Developer+%7C+Network+Developer)](https://git.io/typing-svg)
   
   <p align="center">
     <a href="https://www.linkedin.com/in/eduardo-rodriguez-sanchez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,13 +15,11 @@
 
 ## 🚀 About Me
 
-> *"Forty-two, said Deep Thought, with infinite majesty and calm."*
-
-I'm a passionate Computer Engineer currently pursuing my Master's in High-Performance Computing through the prestigious **EUMaster4HPC** program. With experience in developing software for critical systems, I specialize in **optimizing OS-linked components** and **handling network-related tasks** at scale.
+I'm a passionate Computer Engineer currently pursuing my Master's in High-Performance Computing through the prestigious EUMaster4HPC program. With experience in developing software for critical systems, I specialize in optimizing OS-linked components and handling network-related tasks at scale.
 
 🎓 **Current Journey**: M.S. in HPC at Université du Luxembourg (2025-2026)  
-🌍 **Location**: Madrid, Spain → Luxembourg → Sofia  
-💼 **Current Role**: Research assistant in the workgroup Critical and Extreme Security and Dependability (CritiX)
+🌍 **Location**: Madrid, Spain
+💼 **Current Role**: Research assistant in the CritiX group @ UniLu
 🔬 **Research Interests**: Distributed Systems, Network Optimization, Parallel Computing
 
 ---
@@ -34,17 +32,13 @@ I'm a passionate Computer Engineer currently pursuing my Master's in High-Perfor
 
 ### 🔧 Systems Engineering
 - **Low-level Programming** in C/C++
-- **Kernel Development** & Virtualization
-- **Memory Management** & IPC
 - **Performance Optimization**
 
 </td>
 <td width="50%">
 
-### 🌐 Network & Distributed Systems
-- **5G Core Development** & RAN Systems
-- **Load Balancing** at Scale 
-- **Kubernetes** & Container Orchestration
+### 🌐 Network Engineering
+- **Load Balancing** at scale 
 - **Network Traffic Analysis** & Optimization
 
 </td>
@@ -56,7 +50,6 @@ I'm a passionate Computer Engineer currently pursuing my Master's in High-Perfor
 ## 🌟 Current Focus
 
 - 🔬 **HPC Research**: Exploring parallel computing paradigms and distributed algorithms
-- 🌐 **5G Innovation**: Advancing next-gen network architectures
 - 🚀 **Systems Optimization**: Pushing the boundaries of low-latency, high-throughput systems
 - 📖 **Learning**: CUDA programming, MPI, and advanced parallel computing techniques
 
@@ -86,24 +79,10 @@ I'm a passionate Computer Engineer currently pursuing my Master's in High-Perfor
 
 </div>
 
----
-
-## 📚 Educational Journey
-
-```mermaid
-graph LR
-    A[UC3M Madrid<br/>B.S. Computer Engineering<br/>GPA: 9.1/10] --> B[Georgia Tech<br/>B.S. Computer Science<br/>GPA: 4.0/4.0]
-    B --> C[Uni Luxembourg<br/>M.S. HPC<br/>Year 1: 2025-2026]
-    C --> D[Sofia University<br/>M.S. HPC<br/>Year 2: 2026-2027]
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nekronos-gh&show_icons=true&theme=tokyonight" alt="Eduardo's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nekronos-gh&theme=tokyonight" alt="Eduardo's Streak Stats" />
 </div>
 
 <div align="center">
@@ -114,10 +93,6 @@ graph LR
 
 <div align="center">
   
-### 📫 Let's Connect!
-
-I'm always excited to discuss **systems programming**, **HPC challenges**, or **collaborative opportunities**!
-
 [![Email](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edubuntu2002@gmail.com)
 
 </div>
