@@ -24,24 +24,10 @@ I'm a passionate Computer Engineer currently pursuing my Master's in High-Perfor
 
 ## 🎯 What I Do
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔧 Systems Engineering  
-- **Low-level Programming** in C/C++
-- **Performance Optimization**
-
-</td>
-<td width="50%">
-
-### 🌐 Network Engineering  
-- **Load Balancing** at scale 
-- **Network Traffic Analysis** & Optimization
-
-</td>
-</tr>
-</table>
+- Sytem-level Programming
+- Performance Optimization
+- Traffic Optimization
+- Traffic Analysis
 
 ---
 
